@@ -1,0 +1,10 @@
+INSERT INTO chatbot_data (question, answer)
+VALUES (
+  'what is reinforcement learning',
+  'Reinforcement Learning is a type of Machine Learning where an agent learns by interacting with the environment using rewards and penalties.'
+);
+
+1️⃣ Admin Panel
+2️⃣ Fallback Learning
+3️⃣ Typing Indicator
+4️⃣ Analytics
