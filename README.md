@@ -1,0 +1,1 @@
+This project is a domain-independent chatbot system that can be trained dynamically for any type of question-answer domain. The system learns new information through fallback learning and improves over time based on user interactions.
